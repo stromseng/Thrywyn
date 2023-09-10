@@ -5,7 +5,7 @@
 Student at Norwegian University of Science and Technology
 
 
-<h3>Stats</h3>
+<h3>📊 Stats</h3>
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats-thrywyn.vercel.app/api?username=Thrywyn&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
@@ -14,6 +14,7 @@ Student at Norwegian University of Science and Technology
 
 [![Top Langs](https://github-readme-stats-thrywyn.vercel.app/api/top-langs/?username=Thrywyn)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#145](https://github.com/john-science/mazelib/issues/145) in [john-science/mazelib](https://github.com/john-science/mazelib)
 <!--END_SECTION:activity-->
