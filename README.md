@@ -3,6 +3,8 @@
 <br/>
 <br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cubano&weight=600&pause=1000&color=000000&width=435&lines=Full+Stack+Developer;Informatics+Student;Tech+Enthusiast;E-Sports+Player)](https://git.io/typing-svg)
+
 - 🎓 Student at Norwegian University of Science and Technology
 - 👨‍💻 All of my projects are available at [magnus.stromseng.net](magnus.stromseng.net)
 
