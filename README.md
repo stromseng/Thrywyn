@@ -1,6 +1,7 @@
 <h2>Hi there 👋</h2>
-**I'm a Fullstack Developer and Informatics Student from Norway.**
-
+<b>I'm a Fullstack Developer and Informatics Student from Norway.</b>
+<br/>
+<br/>
 Student at Norwegian University of Science and Technology
 
 
