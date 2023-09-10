@@ -14,6 +14,10 @@ Student at Norwegian University of Science and Technology
 
 [![Top Langs](https://github-readme-stats-thrywyn.vercel.app/api/top-langs/?username=Thrywyn)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:activity-->
+
+
+
 <!--
 **Thrywyn/Thrywyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
