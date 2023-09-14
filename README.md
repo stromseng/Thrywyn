@@ -25,7 +25,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#145](https://github.com/john-science/mazelib/issues/145) in [john-science/mazelib](https://github.com/john-science/mazelib)
+1. ❗ Opened issue [#3](https://github.com/Thrywyn/personalWebPage/issues/3) in [Thrywyn/personalWebPage](https://github.com/Thrywyn/personalWebPage)
 <!--END_SECTION:activity-->
 
 
