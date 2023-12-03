@@ -25,7 +25,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/Thrywyn/personalWebPage/issues/7) in [Thrywyn/personalWebPage](https://github.com/Thrywyn/personalWebPage)
+1. 🎉 Merged PR [#8](https://github.com/Thrywyn/personalWebPage/pull/8) in [Thrywyn/personalWebPage](https://github.com/Thrywyn/personalWebPage)
 <!--END_SECTION:activity-->
 
 
