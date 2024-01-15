@@ -25,7 +25,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119868](https://github.com/microsoft/vscode/issues/119868#issuecomment-1847807399) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. ❗ Opened issue [#9](https://github.com/Thrywyn/personalWebPage/issues/9) in [Thrywyn/personalWebPage](https://github.com/Thrywyn/personalWebPage)
 <!--END_SECTION:activity-->
 
 
