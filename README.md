@@ -25,7 +25,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1966](https://github.com/strapi/documentation/issues/1966#issuecomment-1905926882) in [strapi/documentation](https://github.com/strapi/documentation)
+1. 💪 Opened PR [#1986](https://github.com/strapi/documentation/pull/1986) in [strapi/documentation](https://github.com/strapi/documentation)
 <!--END_SECTION:activity-->
 
 
