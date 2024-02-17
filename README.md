@@ -25,7 +25,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/Thrywyn/personalWebPage/issues/9#issuecomment-1936927547) in [Thrywyn/personalWebPage](https://github.com/Thrywyn/personalWebPage)
+1. ❗ Opened issue [#896](https://github.com/Floorp-Projects/Floorp/issues/896) in [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
 <!--END_SECTION:activity-->
 
 
