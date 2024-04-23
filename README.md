@@ -25,7 +25,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17306](https://github.com/strapi/strapi/issues/17306#issuecomment-2007670513) in [strapi/strapi](https://github.com/strapi/strapi)
+1. ❗ Opened issue [#13](https://github.com/brunofin/cohesion/issues/13) in [brunofin/cohesion](https://github.com/brunofin/cohesion)
 <!--END_SECTION:activity-->
 
 
