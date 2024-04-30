@@ -25,7 +25,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13](https://github.com/brunofin/cohesion/issues/13) in [brunofin/cohesion](https://github.com/brunofin/cohesion)
+1. ❗ Opened issue [#308080](https://github.com/NixOS/nixpkgs/issues/308080) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 
