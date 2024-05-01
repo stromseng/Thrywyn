@@ -25,7 +25,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/kiwiyou/craftping/pull/16) in [kiwiyou/craftping](https://github.com/kiwiyou/craftping)
+1. ❗ Opened issue [#580](https://github.com/RustScan/RustScan/issues/580) in [RustScan/RustScan](https://github.com/RustScan/RustScan)
 <!--END_SECTION:activity-->
 
 
