@@ -25,7 +25,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#308080](https://github.com/NixOS/nixpkgs/issues/308080#issuecomment-2088176206) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 💪 Opened PR [#16](https://github.com/kiwiyou/craftping/pull/16) in [kiwiyou/craftping](https://github.com/kiwiyou/craftping)
 <!--END_SECTION:activity-->
 
 
