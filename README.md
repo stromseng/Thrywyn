@@ -25,7 +25,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#580](https://github.com/RustScan/RustScan/issues/580) in [RustScan/RustScan](https://github.com/RustScan/RustScan)
+1. 🗣 Commented on [#308080](https://github.com/NixOS/nixpkgs/issues/308080#issuecomment-2090014652) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 
