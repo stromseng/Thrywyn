@@ -25,7 +25,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#389](https://github.com/NTNU-SmallSat-Lab/outreach-website/issues/389#issuecomment-2102641242) in [NTNU-SmallSat-Lab/outreach-website](https://github.com/NTNU-SmallSat-Lab/outreach-website)
+1. 💪 Opened PR [#404](https://github.com/NTNU-SmallSat-Lab/outreach-website/pull/404) in [NTNU-SmallSat-Lab/outreach-website](https://github.com/NTNU-SmallSat-Lab/outreach-website)
 <!--END_SECTION:activity-->
 
 
