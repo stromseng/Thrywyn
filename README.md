@@ -25,7 +25,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/DiiiaZoTe/next-route-visualizer/issues/8) in [DiiiaZoTe/next-route-visualizer](https://github.com/DiiiaZoTe/next-route-visualizer)
+1. ❗ Opened issue [#402](https://github.com/NTNU-SmallSat-Lab/outreach-website/issues/402) in [NTNU-SmallSat-Lab/outreach-website](https://github.com/NTNU-SmallSat-Lab/outreach-website)
 <!--END_SECTION:activity-->
 
 
