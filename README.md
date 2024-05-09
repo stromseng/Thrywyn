@@ -25,7 +25,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12](https://github.com/stromseng/personalWebPage/issues/12) in [stromseng/personalWebPage](https://github.com/stromseng/personalWebPage)
+1. ❗ Opened issue [#8](https://github.com/DiiiaZoTe/next-route-visualizer/issues/8) in [DiiiaZoTe/next-route-visualizer](https://github.com/DiiiaZoTe/next-route-visualizer)
 <!--END_SECTION:activity-->
 
 
