@@ -25,7 +25,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#406](https://github.com/NTNU-SmallSat-Lab/outreach-website/pull/406) in [NTNU-SmallSat-Lab/outreach-website](https://github.com/NTNU-SmallSat-Lab/outreach-website)
+1. 🗣 Commented on [#4](https://github.com/L-Mario564/drizzle-dbml-generator/issues/4#issuecomment-2118859599) in [L-Mario564/drizzle-dbml-generator](https://github.com/L-Mario564/drizzle-dbml-generator)
 <!--END_SECTION:activity-->
 
 
