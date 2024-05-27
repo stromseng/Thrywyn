@@ -25,7 +25,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/L-Mario564/drizzle-dbml-generator/issues/4#issuecomment-2118859599) in [L-Mario564/drizzle-dbml-generator](https://github.com/L-Mario564/drizzle-dbml-generator)
+1. ❗ Opened issue [#366](https://github.com/Fmstrat/winapps/issues/366) in [Fmstrat/winapps](https://github.com/Fmstrat/winapps)
 <!--END_SECTION:activity-->
 
 
