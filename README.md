@@ -25,7 +25,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#366](https://github.com/Fmstrat/winapps/issues/366) in [Fmstrat/winapps](https://github.com/Fmstrat/winapps)
+1. ❗ Opened issue [#102](https://github.com/winapps-org/winapps/issues/102) in [winapps-org/winapps](https://github.com/winapps-org/winapps)
 <!--END_SECTION:activity-->
 
 
