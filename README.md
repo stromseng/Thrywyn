@@ -25,7 +25,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#409](https://github.com/NTNU-SmallSat-Lab/outreach-website/pull/409) in [NTNU-SmallSat-Lab/outreach-website](https://github.com/NTNU-SmallSat-Lab/outreach-website)
+1. 🎉 Merged PR [#409](https://github.com/NTNU-SmallSat-Lab/outreach-website/pull/409) in [NTNU-SmallSat-Lab/outreach-website](https://github.com/NTNU-SmallSat-Lab/outreach-website)
 <!--END_SECTION:activity-->
 
 
