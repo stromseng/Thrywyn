@@ -25,7 +25,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#409](https://github.com/NTNU-SmallSat-Lab/outreach-website/pull/409) in [NTNU-SmallSat-Lab/outreach-website](https://github.com/NTNU-SmallSat-Lab/outreach-website)
+1. 🗣 Commented on [#16](https://github.com/kiwiyou/craftping/pull/16#issuecomment-2198135588) in [kiwiyou/craftping](https://github.com/kiwiyou/craftping)
 <!--END_SECTION:activity-->
 
 
