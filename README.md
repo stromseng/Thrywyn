@@ -25,7 +25,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/kiwiyou/craftping/pull/16#issuecomment-2198135588) in [kiwiyou/craftping](https://github.com/kiwiyou/craftping)
+1. 🗣 Commented on [#12187](https://github.com/zed-industries/zed/issues/12187#issuecomment-2227301970) in [zed-industries/zed](https://github.com/zed-industries/zed)
 <!--END_SECTION:activity-->
 
 
