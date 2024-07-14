@@ -13,11 +13,6 @@
 <a href="https://www.linkedin.com/in/stromseng/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magnus-alexander-strømseng-063112214" height="30" width="40" /></a>
 </p>
 
-<h3>📊 Stats</h3>
-
-<p><img align="left" src="https://github-readme-stats-thrywyn.vercel.app/api/top-langs?username=thrywyn&show_icons=true&locale=en&layout=compact" alt="thrywyn" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-thrywyn.vercel.app/api?username=thrywyn&show_icons=true&locale=en" alt="thrywyn" /></p>
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
