@@ -13,7 +13,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12187](https://github.com/zed-industries/zed/issues/12187#issuecomment-2227301970) in [zed-industries/zed](https://github.com/zed-industries/zed)
+1. 💪 Opened PR [#16](https://github.com/stromseng/personalWebPage/pull/16) in [stromseng/personalWebPage](https://github.com/stromseng/personalWebPage)
 <!--END_SECTION:activity-->
 
 
