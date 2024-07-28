@@ -13,7 +13,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/stromseng/personalWebPage/pull/16) in [stromseng/personalWebPage](https://github.com/stromseng/personalWebPage)
+1. ❌ Closed PR [#16](https://github.com/stromseng/personalWebPage/pull/16) in [stromseng/personalWebPage](https://github.com/stromseng/personalWebPage)
 <!--END_SECTION:activity-->
 
 
